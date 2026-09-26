@@ -1,0 +1,6 @@
+{
+  "name": "Teleprompter Camera",
+  "description": "Professional mobile teleprompter and camera video recorder with customizable scripts, multi-format aspect ratios, auto-scroll, and studio recording controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
